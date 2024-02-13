@@ -1,1 +1,2 @@
 This is Dummy text file.
+I have added some line from VS Code
